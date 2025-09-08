@@ -29,7 +29,6 @@
 - 🎓 2nd Year CS @ Dongyang Mirae University
 - 🧠 Like: `React`, `Java`, `Godot Engine`, `JavaScript`, `Linux`, `Vite`
 - 🌍 Creator of projects like: `Diner 81`, `2D Game`, `3D Game`
-- ✨ Building premium brands & beautiful digital experiences
 
 ### 🧩 Tech Stack
 <div align="center">
