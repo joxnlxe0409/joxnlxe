@@ -41,11 +41,6 @@
 - 🛠 I like to stay busy and work out during free time.
 - 🌴 Currently dreaming of a digital nomad life 🧳
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=joxnlxe0409&show_icons=true&theme=radical" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joxnlxe0409&layout=compact&theme=radical" />
-</div>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 </p>
