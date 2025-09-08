@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=1000&lines=안녕하세요!+이준영입니다+%F0%9F%91%8B;풀스택+엔지니어+%7C+크리에이티브+메이커;제+디지털+우주에+오신걸+환영해요+%F0%9F%8C%8C" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=1000&lines=안녕하세요!+이준영입니다!+%F0%9F%91%8B;풀스택+엔지니어+%7C+크리에이티브+메이커;제+깃허브에+오신걸+환영합니다!+%F0%9F%8C%8C" alt="Typing SVG" />
 </h1>
 
 <p align="right">
