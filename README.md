@@ -46,20 +46,6 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joxnlxe0409&layout=compact&theme=radical" />
 </div>
 
-<h3 align="center">🔥 Contribution Streak 🔥</h3>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joxnlxe0409&theme=tokyonight" />
-</p>
-
-<h3 align="center">🏆 GitHub Trophies 🏆</h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=joxnlxe0409&theme=gruvbox&column=6&no-frame=true" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=joxnlxe0409&label=VISITORS&style=flat-square&color=brightgreen" />
-</p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 </p>
