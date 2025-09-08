@@ -7,16 +7,16 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/your-github-username">
+  <a href="https://github.com/joxnlxe">
     <img src="https://img.shields.io/github/followers/your-github-username?label=Follow&style=social" />
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:jyl030409@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://yourwebsite.com">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=about.me&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://linkedin.com/in/jyl030409/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
 </p>
