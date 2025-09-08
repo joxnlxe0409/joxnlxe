@@ -29,8 +29,7 @@
 - 🎓 동양미래대학교 컴퓨터소프트웨어공학과 2학년
 - 🧠 좋아하는 스택: `React`, `Java`, `Godot Engine`, `JavaScript`, `Linux`, `Vite`
 - 🌍 만든 것들: `Diner 81`, `2D 게임`, `3D 게임`
-- ✨ 프리미엄 브랜드와 감성적인 디지털 경험 제작
-
+  
 ### 🧩 기술 스택
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,vite,java,js,css,mysql,linux,github,c,arduino" />
