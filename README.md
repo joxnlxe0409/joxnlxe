@@ -33,8 +33,12 @@
 
 ### 🧩 Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,nodejs,express,mysql,mongodb,git,vite,figma,github,vercel" />
+  <img src="https://skillicons.dev/icons?i=react,vite,java,js,css,mysql,linux,github,c,arduino" />
+  <br/>
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
 </div>
+
 
 ### ✨ Fun Stuff
 - 💡 I love solving problems creatively.
