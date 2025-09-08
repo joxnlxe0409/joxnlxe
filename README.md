@@ -46,18 +46,3 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 </p>
 
-### 📡 Visitor Count
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=VISITORS&style=flat-square&color=brightgreen" />
-</p>
-
-<h3 align="center">🔥 Contribution Streak 🔥</h3>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" />
-</p>
-
-<h3 align="center">🏆 GitHub Trophies 🏆</h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=gruvbox&column=6&no-frame=true" />
-</p>
